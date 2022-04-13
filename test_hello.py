@@ -57,14 +57,14 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>github-actions-demo/Makefile at main · noahgift/github-actions-demo</title>
-    <meta name="description" content="This is a repo for building out Github Actions and Tricks - github-actions-demo/Makefile at main · noahgift/github-actions-demo">
+  <title>github-actions-demo/test_hello.py at main · noahgift/github-actions-demo</title>
+    <meta name="description" content="This is a repo for building out Github Actions and Tricks - github-actions-demo/test_hello.py at main · noahgift/github-actions-demo">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/63a06d5d57a3246d02e1eee31caf74692625702bd3484b6c89acd92d3d50bb6e/noahgift/github-actions-demo" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="github-actions-demo/Makefile at main · noahgift/github-actions-demo" /><meta name="twitter:description" content="This is a repo for building out Github Actions and Tricks - github-actions-demo/Makefile at main · noahgift/github-actions-demo" />
-    <meta property="og:image" content="https://opengraph.githubassets.com/63a06d5d57a3246d02e1eee31caf74692625702bd3484b6c89acd92d3d50bb6e/noahgift/github-actions-demo" /><meta property="og:image:alt" content="This is a repo for building out Github Actions and Tricks - github-actions-demo/Makefile at main · noahgift/github-actions-demo" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="github-actions-demo/Makefile at main · noahgift/github-actions-demo" /><meta property="og:url" content="https://github.com/noahgift/github-actions-demo" /><meta property="og:description" content="This is a repo for building out Github Actions and Tricks - github-actions-demo/Makefile at main · noahgift/github-actions-demo" />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/63a06d5d57a3246d02e1eee31caf74692625702bd3484b6c89acd92d3d50bb6e/noahgift/github-actions-demo" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="github-actions-demo/test_hello.py at main · noahgift/github-actions-demo" /><meta name="twitter:description" content="This is a repo for building out Github Actions and Tricks - github-actions-demo/test_hello.py at main · noahgift/github-actions-demo" />
+    <meta property="og:image" content="https://opengraph.githubassets.com/63a06d5d57a3246d02e1eee31caf74692625702bd3484b6c89acd92d3d50bb6e/noahgift/github-actions-demo" /><meta property="og:image:alt" content="This is a repo for building out Github Actions and Tricks - github-actions-demo/test_hello.py at main · noahgift/github-actions-demo" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="github-actions-demo/test_hello.py at main · noahgift/github-actions-demo" /><meta property="og:url" content="https://github.com/noahgift/github-actions-demo" /><meta property="og:description" content="This is a repo for building out Github Actions and Tricks - github-actions-demo/test_hello.py at main · noahgift/github-actions-demo" />
     
 
 
@@ -72,12 +72,12 @@
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/4188009/ws?session=eyJ2IjoiVjMiLCJ1Ijo0MTg4MDA5LCJzIjo4NjQ2OTY1MDYsImMiOjMxODM5MzYzNjksInQiOjE2NDk4Nzg1ODB9--3a0f3c195bf1a318258325d4b7dc2900c9ab7415eefd07dedf02ce6ae3596454" data-refresh-url="/_alive" data-session-id="d379eacba1a99fb3d7698019daf3f8b3183f38afb1c686b76801cb7de35133dc">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/4188009/ws?session=eyJ2IjoiVjMiLCJ1Ijo0MTg4MDA5LCJzIjo4NjQ2OTY1MDYsImMiOjM0NTE0NzkxOTEsInQiOjE2NDk4Nzg2NDV9--57537149096bbb25a0d2fd28ca4f939970e50b6543ae4805d81255d749ab6862" data-refresh-url="/_alive" data-session-id="d379eacba1a99fb3d7698019daf3f8b3183f38afb1c686b76801cb7de35133dc">
     <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b98ccfd9236e.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
 
-  <meta name="request-id" content="DADC:B8A4:4D36F1:517244:62572633" data-pjax-transient="true" /><meta name="html-safe-nonce" content="f8b4fd6cc0e0b30574d860519cef2880a1d1fc14a08d4e8745fbebde5e215c62" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9ub2FoZ2lmdC9naXRodWItYWN0aW9ucy1kZW1vIiwicmVxdWVzdF9pZCI6IkRBREM6QjhBNDo0RDM2RjE6NTE3MjQ0OjYyNTcyNjMzIiwidmlzaXRvcl9pZCI6IjI3Mzk4ODMzMzQ4MjY0MDA0ODkiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="eb3d6b5ee82738bd6a8816f13f3e133f7308f1cb93505030a9798549d70e4159" data-pjax-transient="true" />
+  <meta name="request-id" content="DAE5:FD4E:532B55:576787:6257266F" data-pjax-transient="true" /><meta name="html-safe-nonce" content="f8b4fd6cc0e0b30574d860519cef2880a1d1fc14a08d4e8745fbebde5e215c62" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9ub2FoZ2lmdC9naXRodWItYWN0aW9ucy1kZW1vIiwicmVxdWVzdF9pZCI6IkRBRTU6RkQ0RTo1MzJCNTU6NTc2Nzg3OjYyNTcyNjZGIiwidmlzaXRvcl9pZCI6IjI3Mzk4ODMzMzQ4MjY0MDA0ODkiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="8c0eabbdaf966cfd9e80bd53e11a4325a68cae7fc11575b51d17db7abc06271a" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:304346600" data-pjax-transient>
 
@@ -113,7 +113,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="NWNmNTAwMDlkOTcwY2E3NDVmMTU5MDc0M2ZkMzM5OTg5NzY5Y2U0NGM5NTAxMTE2NjQ3ZjE4YmQ3ZGJkMTc4NXx7InJlbW90ZV9hZGRyZXNzIjoiMTU0LjIyNi41NC4zNiIsInJlcXVlc3RfaWQiOiJEQURDOkI4QTQ6NEQzNkYxOjUxNzI0NDo2MjU3MjYzMyIsInRpbWVzdGFtcCI6MTY0OTg3ODU4MCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+      <meta name="js-proxy-site-detection-payload" content="MzhiYmQ5ZDRiNjI5MzNhZjY3MmY2ODFlM2Q5NDIzYzE5NzE5NzA5NTE5YjFjOGExYjFmZTBkNzY4MmRkYzBkOHx7InJlbW90ZV9hZGRyZXNzIjoiMTU0LjIyNi41NC4zNiIsInJlcXVlc3RfaWQiOiJEQUU1OkZENEU6NTMyQjU1OjU3Njc4Nzo2MjU3MjY2RiIsInRpbWVzdGFtcCI6MTY0OTg3ODY0NSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="ACTIONS_CALLABLE_WORKFLOWS,MARKETPLACE_PENDING_INSTALLATIONS,PRESENCE_IDLE">
 
@@ -132,7 +132,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/noahgift/github-actions-demo/blob/main/Makefile" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/noahgift/github-actions-demo/blob/main/test_hello.py" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -222,7 +222,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="SPNtRTRUAy_4LwdgjIP5rLxrnu4Yb3na6DP8qQ340ooGGfvg9uuhQOnqfEbnOHWXcyyPpu9YsBNTLSV0-QwM8Q" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="q7zs-XrpXJQ60d5S1_9DYGqghznY620Ou62rZVnJSLXlVnpcuFb--ysUpXS8RM9bpeeWcS_cpMcAs3K4rT2Wzg" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -421,7 +421,7 @@
 
     <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-turbo="false" data-selected-links="/codespaces /codespaces" href="/codespaces">Codespaces</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;mrtz16562&quot;,&quot;originating_url&quot;:&quot;https://github.com/noahgift/github-actions-demo/blob/main/Makefile&quot;,&quot;user_id&quot;:4188009}}" data-hydro-click-hmac="56ac0a90b3e284e653976d3dc0ec450ab830ad8f95af066e8af84bd135850c6c" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;mrtz16562&quot;,&quot;originating_url&quot;:&quot;https://github.com/noahgift/github-actions-demo/blob/main/test_hello.py&quot;,&quot;user_id&quot;:4188009}}" data-hydro-click-hmac="ce7297347dc2078e33cc258159a73e44f9d50311e9732b4ce7f69c066ab32ce5" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -429,7 +429,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/4188009?s=40&amp;v=4" width="20" height="20" alt="@mrtz16562" />
       mrtz16562
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="_KwI4KPuCdEJW1l1GPLFckN7CUjPBG3qi9MqlA2RqWmKLmT7txIIa8RcOPVhDSA_X-gaybZEHRPaRWV7dDQzBQ" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="qxMPoxxazvnC5kqcNH1kI7H6AeAcpuGPqyepw8O5iYTdkWO4CKbPQw_hKxxNgoFurWkSYWXmkXb6seYsuhwT6A" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -468,7 +468,7 @@
       <notification-indicator
         class="js-socket-channel"
         data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NDE4ODAwOSIsInQiOjE2NDk4Nzg1ODB9--45adee02b5448e4ca9682b4a11694ff30b98666c0cc60708a366ebb06afc21d3">
+        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NDE4ODAwOSIsInQiOjE2NDk4Nzg2NDV9--3bf16b4e890282a736239ef430693a4b07a2dec409c1d2d6c6503caa358fbcc9">
         <a href="/notifications"
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
           
@@ -604,7 +604,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      data-return-to=/noahgift/github-actions-demo/blob/main/Makefile
+      data-return-to=/noahgift/github-actions-demo/blob/main/test_hello.py
       data-user-id="4188009"
       data-activation-hotkey="Mod+k,Mod+Alt+k"
       data-command-mode-hotkey="Mod+Shift+k"
@@ -617,10 +617,10 @@
 
 
       <input type="hidden" name="color-mode-path" id="color-mode-path" value="/settings/appearance/color_mode" class="js-color-mode-path" autocomplete="off" />
-      <input type="hidden" value="5FjWzb5nWCntjS-mK-L7BPD_dhCHuAJDxFglZSOaT7ICeqdbwLnDgzlapxtBjauDRgniGR0UxWB1iWlWd0ZVaQ" data-csrf="true" class="js-color-mode-csrf" />
+      <input type="hidden" value="Vt6PQLbWryaTydwz9MfPjRczKAVFzpsYAyrzgrR3xnCw_P7WyAg0jEceVI6eqJ8KocW8DN9iXDuy-7-x4Kvcqw" data-csrf="true" class="js-color-mode-csrf" />
 
       <input type="hidden" name="tab-size-path" id="tab-size-path" value="/settings/appearance/tab_size" class="js-tab-size-path" autocomplete="off" />
-      <input type="hidden" value="Jk_ugBJW00NpSs3SiZ_2VNHUBe9PkAA4r_4XOZANYzuiFb81TSiWCDsBJkvzGfg3IU9XQt3xHrslZuV5jlo0XA" data-csrf="true" class="js-tab-size-csrf" />
+      <input type="hidden" value="AH2UfDYNKNGTD3UeIe4T48h8dBXNq6yfM71AaXx5XeqEJ8XJaXNtmsFEnodbaB2AOOcmuF_Kshy5JbIpYi4KjQ" data-csrf="true" class="js-tab-size-csrf" />
 
         <command-palette-mode
           data-char="#"
@@ -1527,7 +1527,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:304346600,&quot;originating_url&quot;:&quot;https://github.com/noahgift/github-actions-demo/blob/main/Makefile&quot;,&quot;user_id&quot;:4188009}}" data-hydro-click-hmac="5dbba140ae95002041b186e9815f0309c1a2388fde951371840d5d28271eef9e" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
+      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:304346600,&quot;originating_url&quot;:&quot;https://github.com/noahgift/github-actions-demo/blob/main/test_hello.py&quot;,&quot;user_id&quot;:4188009}}" data-hydro-click-hmac="479c327b46701af29e63e098f41615f405c7d826be50f791c540a7ce39a0af24" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
             <span
               hidden
               
@@ -1580,7 +1580,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="zmjpQOxW6ufBA-_EAdHF9IgynBDtIqPfloVbPvpgx3PFFiHrBUEBnWt7YbUZb7FRMmVMvhLeKPeLNs-7NQCLLQ" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="0zIpcKZvYHj-GasoUSHkoC1CgGeERxfL1fvZSm3tGSDYTOHbT3iLAlRhJVlJn5AFlxVQyXu7nOPISE3Poo1Vfg" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="304346600">
 
@@ -1708,7 +1708,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="42zSYfj-kJQ1d5ruwbey6KsBg3XrYJdCe7OAE5ATu-_oEhrKEel77p8PFJ_ZCcZNEVZT2xScHGpmABSWX3P3sQ" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="nwvzug5qLWY3vT80pTHywSR73v6x0b8bq3TwpuKtGC2UdTsR533GHJ3FsUW9j4ZkniwOUE4tNDO2x2QjLc1Ucw" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="304346600">
 
@@ -1855,7 +1855,7 @@
   </li>
 
   <li>
-            <a href="/noahgift/github-actions-demo/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:304346600,&quot;originating_url&quot;:&quot;https://github.com/noahgift/github-actions-demo/blob/main/Makefile&quot;,&quot;user_id&quot;:4188009}}" data-hydro-click-hmac="674c1a954dbf517464ef7edd2ee2c8983d883dbba946906afd7dfb087904bd52" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of noahgift/github-actions-demo" data-view-component="true" class="btn-sm btn float-left">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+            <a href="/noahgift/github-actions-demo/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:304346600,&quot;originating_url&quot;:&quot;https://github.com/noahgift/github-actions-demo/blob/main/test_hello.py&quot;,&quot;user_id&quot;:4188009}}" data-hydro-click-hmac="1bb9aa7b2c8a5ad9615ab1188ec506f0062b9843994ae89ff10735844a22af48" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of noahgift/github-actions-demo" data-view-component="true" class="btn-sm btn float-left">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" title="110" data-view-component="true" class="Counter">110</span>
@@ -1884,19 +1884,19 @@
 </template>
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container BtnGroup d-flex">
-    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/noahgift/github-actions-demo/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ubJ4xBTSvN_nUsptEW4FUqy0FKl2cXjRafuQxjLUYXZqKNhmVtPdD7es3aGof0ojthvfxs14GnY5VZF9TnSzvQ" autocomplete="off" />
-        <input type="hidden" value="O3qD2dFWDyUsSLSSxjenBN4ihc-bEimDZpHEgxqaq3fo4CN7k1du9Xy2o15_Juh1xI1OoCAbSyQ2P8U4Zjp5vA" data-csrf="true" class="js-confirm-csrf-token" />
+    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/noahgift/github-actions-demo/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="EAQ1dASuS8PtDm4_nTQPIBd6mFK3yfVp1WddTZC2GjfDnpXWRq8qE73wefMkJUBRDdVTPQzAl86FyVz27BbI_A" autocomplete="off" />
+        <input type="hidden" value="AC48ruEGR4143VeLOy2cRJOq6C0VnZbfhON22CLdnMvTtJwMowcmXSgjQEeCPNM1iQUjQq6U9HjUTXdjXn1OAA" data-csrf="true" class="js-confirm-csrf-token" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:304346600,&quot;originating_url&quot;:&quot;https://github.com/noahgift/github-actions-demo/blob/main/Makefile&quot;,&quot;user_id&quot;:4188009}}" data-hydro-click-hmac="793432feaa0f262ed7721a3d57ea1d11d35cfe37aa8b81161a3f92304c5bcc3b" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:304346600,&quot;originating_url&quot;:&quot;https://github.com/noahgift/github-actions-demo/blob/main/test_hello.py&quot;,&quot;user_id&quot;:4188009}}" data-hydro-click-hmac="d632c6018e65f108efcc3abb200198beaef3f2b81e910dbd015c6759056c1b85" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Starred
 </span>          <span id="repo-stars-counter-unstar" aria-label="19 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="19" data-view-component="true" class="Counter js-social-count">19</span>
   
 </button></form>
-    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/noahgift/github-actions-demo/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="NiNthAqadZnTKI0lnROJh1lNAQpJCcLJo6aALws3FjCHOoYD3XDsVubPwLyPk0l8kw-gXP7Tfm4_kqr8JjAdJA" autocomplete="off" />
+    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/noahgift/github-actions-demo/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Bq5tePfGtk0joDvmC2yHTUiCiGgCmQ949pulLvh2-Oq3t4b_ICwvghZHdn8Z7Ee2gsApPrVDs99qr4_91XHz_g" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:304346600,&quot;originating_url&quot;:&quot;https://github.com/noahgift/github-actions-demo/blob/main/Makefile&quot;,&quot;user_id&quot;:4188009}}" data-hydro-click-hmac="c32c07e29b019d4beb260bb044c6fcb4e8287e5b04a0af60f879716a80b34ab3" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:304346600,&quot;originating_url&quot;:&quot;https://github.com/noahgift/github-actions-demo/blob/main/test_hello.py&quot;,&quot;user_id&quot;:4188009}}" data-hydro-click-hmac="0fa13e979646ca6f14cdf00c6978f92556cccf7dd9b266d6a7fef42c6eb91725" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
@@ -1917,13 +1917,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-8d2dae">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-e6ff64">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-8d2dae"
+        id="filter-menu-e6ff64"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2126,7 +2126,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/noahgift/github-actions-demo/blob/19c21bc97ec901e419971e0722eea3081b017e08/Makefile">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/noahgift/github-actions-demo/blob/19c21bc97ec901e419971e0722eea3081b017e08/test_hello.py">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2211,7 +2211,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/noahgift/github-actions-demo/blob/{{ urlEncodedRefName }}/Makefile" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/noahgift/github-actions-demo/blob/{{ urlEncodedRefName }}/test_hello.py" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2251,7 +2251,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/noahgift/github-actions-demo/blob/{{ urlEncodedRefName }}/Makefile" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/noahgift/github-actions-demo/blob/{{ urlEncodedRefName }}/test_hello.py" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2282,7 +2282,55 @@
 </div>
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/noahgift/github-actions-demo"><span>github-actions-demo</span></a></span></span><span class="separator">/</span><strong class="final-path">Makefile</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/noahgift/github-actions-demo"><span>github-actions-demo</span></a></span></span><span class="separator">/</span><strong class="final-path">test_hello.py</strong>
+      <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
+  <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:304346600,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;originating_url&quot;:&quot;https://github.com/noahgift/github-actions-demo/blob/main/test_hello.py&quot;,&quot;user_id&quot;:4188009}}" data-hydro-click-hmac="f6a6974aa987ee15acd76947cf9da6ca057f1eb29c57cac502afda26253d2833" data-view-component="true" class="Link--secondary css-truncate btn-link">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
+</svg>
+    <span data-menu-button>Jump to</span>
+    <span class="dropdown-caret"></span>
+  
+</summary>  <details-menu class="SelectMenu SelectMenu--hasFilter" role="menu">
+    <div class="SelectMenu-modal">
+      <header class="SelectMenu-header">
+        <span class="SelectMenu-title">Code definitions</span>
+        <button class="SelectMenu-closeButton" type="button" data-toggle-for="jumpto-symbol-select-menu">
+          <svg aria-label="Close menu" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+        </button>
+      </header>
+        <div class="SelectMenu-filter">
+          <input
+            class="SelectMenu-input form-control js-filterable-field"
+            id="jumpto-symbols-filter-field"
+            type="text"
+            autocomplete="off"
+            spellcheck="false"
+            autofocus
+            placeholder="Filter definitions"
+            aria-label="Filter definitions">
+        </div>
+      <div class="SelectMenu-list">
+        <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
+            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:304346600,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;originating_url&quot;:&quot;https://github.com/noahgift/github-actions-demo/blob/main/test_hello.py&quot;,&quot;user_id&quot;:4188009}}" data-hydro-click-hmac="11ff216617282b109618dc3439b420b3e701d01b884f8fef6a8a5252e56d541d" href="/noahgift/github-actions-demo/blob/main/test_hello.py#L4">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>test_add</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>        </div>
+      </div>
+      <footer class="SelectMenu-footer">
+        <div class="d-flex flex-justify-between">
+          Code navigation index up-to-date
+          <svg class="octicon octicon-dot-fill text-green" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+        </div>
+      </footer>
+    </div>
+  </details-menu>
+</details>
+
   </h2>
   <a href="/noahgift/github-actions-demo/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="js-pjax-capture-input btn mr-2 d-none d-md-block">  Go to file
   
@@ -2295,7 +2343,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:304346600,&quot;originating_url&quot;:&quot;https://github.com/noahgift/github-actions-demo/blob/main/Makefile&quot;,&quot;user_id&quot;:4188009}}" data-hydro-click-hmac="f4ca4c7164c3bf54d844b12cacb4d39a614366c45208ec2dea4600efc0f632d2" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/noahgift/github-actions-demo/find/main">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:304346600,&quot;originating_url&quot;:&quot;https://github.com/noahgift/github-actions-demo/blob/main/test_hello.py&quot;,&quot;user_id&quot;:4188009}}" data-hydro-click-hmac="b8bcd733a831f2331d878b7671c149004520449805e3264c27f2893561b6ed0e" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/noahgift/github-actions-demo/find/main">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2306,15 +2354,22 @@
             </span>
   
 </button>        </li>
+        <li data-toggle-for="blob-more-options-details">
+          <button data-toggle-for="jumpto-symbol-select-menu" type="button" data-view-component="true" class="dropdown-item btn-link">  <span class="d-flex flex-items-baseline">
+              <span class="flex-auto">Go to definition</span>
+              <span class="text-small color-fg-muted" aria-hidden="true">R</span>
+            </span>
+  
+</button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="Makefile" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="test_hello.py" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/noahgift/github-actions-demo/blob/19c21bc97ec901e419971e0722eea3081b017e08/Makefile" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/noahgift/github-actions-demo/blob/19c21bc97ec901e419971e0722eea3081b017e08/test_hello.py" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2346,7 +2401,7 @@
     <include-fragment src="/noahgift/github-actions-demo/spoofed_commit_check/19c21bc97ec901e419971e0722eea3081b017e08" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/noahgift/github-actions-demo/contributors/main/Makefile" class="commit-loader">
+  <include-fragment src="/noahgift/github-actions-demo/contributors/main/test_hello.py" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2379,18 +2434,18 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      23 lines (18 sloc)
+      5 lines (3 sloc)
       <span class="file-info-divider"></span>
-    441 Bytes
+    66 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-      <a data-permalink-href="/noahgift/github-actions-demo/raw/19c21bc97ec901e419971e0722eea3081b017e08/Makefile" href="/noahgift/github-actions-demo/raw/main/Makefile" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
+      <a data-permalink-href="/noahgift/github-actions-demo/raw/19c21bc97ec901e419971e0722eea3081b017e08/test_hello.py" href="/noahgift/github-actions-demo/raw/main/test_hello.py" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
   
-</a>        <a data-permalink-href="/noahgift/github-actions-demo/blame/19c21bc97ec901e419971e0722eea3081b017e08/Makefile" href="/noahgift/github-actions-demo/blame/main/Makefile" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
+</a>        <a data-permalink-href="/noahgift/github-actions-demo/blame/19c21bc97ec901e419971e0722eea3081b017e08/test_hello.py" href="/noahgift/github-actions-demo/blame/main/test_hello.py" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
   
 </a>    </div>
 
@@ -2405,11 +2460,11 @@
 </svg>
           </a>
 
-        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/noahgift/github-actions-demo/raw/main/Makefile" data-action="click:remote-clipboard-copy#remoteCopy">
+        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/noahgift/github-actions-demo/raw/main/test_hello.py" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
 
-  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:304346600,&quot;originating_url&quot;:&quot;https://github.com/noahgift/github-actions-demo/blob/main/Makefile&quot;,&quot;user_id&quot;:4188009}}" data-hydro-click-hmac="6b8494093ec7ed22e0b0d3e1171ccf8efa676b032d382ffc604e358646c5a27b" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:304346600,&quot;originating_url&quot;:&quot;https://github.com/noahgift/github-actions-demo/blob/main/test_hello.py&quot;,&quot;user_id&quot;:4188009}}" data-hydro-click-hmac="8a7ae77e482cf3411628d97b627578573ffaf45a3f657002583cd30aee505f6e" aria-label="Copy raw contents">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2432,7 +2487,7 @@
             </span>
 </span>
 </remote-clipboard-copy>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" data-turbo="false" action="/noahgift/github-actions-demo/edit/main/Makefile" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="9Fg6xbI6XlZOZIdnSalX6QHs_Iz2GfSAQn3U6w_fqNJiQb6Ya8a8LvvOhYlnGI1uaAOyRhFrWs898LvS76JAMw" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" data-turbo="false" action="/noahgift/github-actions-demo/edit/main/test_hello.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="eY8Frd4DybsaFrEao9ZcYVcM4V_KFoG80zjGYTuHgT3fu-dMvBvo4kYTjIXzPAGSu1C6RpgXyXlgAQB8_gYjrA" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
@@ -2440,7 +2495,7 @@
 </svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/noahgift/github-actions-demo/delete/main/Makefile" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="5KSrFpld8rLdLLeJRlYP3E0VFOaEHLRPhx_7ZMdth_-4aQARpZuWRsdA3uqETbT-99Xjrg36nfJqG0nZHPhgKQ" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/noahgift/github-actions-demo/delete/main/test_hello.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="oaGMAgNlbcnJyBRe1wG4mFGu5tcjeZbVQdi_zZcbDAruTI8ib4LqxdlkoWi7J8OuEnJJiauweDTquoIDVAPAGw" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2468,15 +2523,15 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/noahgift/github-actions-demo/raw/main/Makefile">
+            <a class="dropdown-item" href="/noahgift/github-actions-demo/raw/main/test_hello.py">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/noahgift/github-actions-demo/raw/main/Makefile" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/noahgift/github-actions-demo/raw/main/test_hello.py" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:304346600,&quot;originating_url&quot;:&quot;https://github.com/noahgift/github-actions-demo/blob/main/Makefile&quot;,&quot;user_id&quot;:4188009}}" data-hydro-click-hmac="6b8494093ec7ed22e0b0d3e1171ccf8efa676b032d382ffc604e358646c5a27b">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:304346600,&quot;originating_url&quot;:&quot;https://github.com/noahgift/github-actions-demo/blob/main/test_hello.py&quot;,&quot;user_id&quot;:4188009}}" data-hydro-click-hmac="8a7ae77e482cf3411628d97b627578573ffaf45a3f657002583cd30aee505f6e">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2499,17 +2554,17 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/noahgift/github-actions-demo/blame/main/Makefile">
+              <a class="dropdown-item" href="/noahgift/github-actions-demo/blame/main/test_hello.py">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/noahgift/github-actions-demo/edit/main/Makefile">Edit file</a>
+                <a class="dropdown-item" href="/noahgift/github-actions-demo/edit/main/test_hello.py">Edit file</a>
               </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/noahgift/github-actions-demo/delete/main/Makefile">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/noahgift/github-actions-demo/delete/main/test_hello.py">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2518,7 +2573,7 @@
 
 
       
-  <div itemprop="text" class="Box-body p-0 blob-wrapper data type-makefile  gist-border-0">
+  <div itemprop="text" class="Box-body p-0 blob-wrapper data type-python  gist-border-0">
 
       
 <div class="js-check-bidi js-blob-code-container blob-code-content">
@@ -2547,103 +2602,28 @@
 </svg>
 </span></template>
 
-  <table class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="Makefile" data-tagsearch-path="Makefile">
+  <table class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="Python" data-tagsearch-path="test_hello.py">
         <tr>
           <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
-          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-en">install</span>:</td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-k>from</span> <span class=pl-s1>hello</span> <span class=pl-k>import</span> <span class=pl-s1>add</span></td>
         </tr>
         <tr>
           <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
-          <td id="LC2" class="blob-code blob-code-inner js-file-line">	pip install --upgrade pip <span class="pl-k">&amp;&amp;</span><span class="pl-cce">\</span></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
-          <td id="LC3" class="blob-code blob-code-inner js-file-line">		pip install -r requirements.txt</td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
-          <td id="LC4" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class=pl-k>def</span> <span class=pl-en>test_add</span>():</td>
         </tr>
         <tr>
           <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
-          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-en">install-gcp</span>:</td>
-        </tr>
-        <tr>
-          <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
-          <td id="LC6" class="blob-code blob-code-inner js-file-line">	pip install --upgrade pip <span class="pl-k">&amp;&amp;</span><span class="pl-cce">\</span></td>
-        </tr>
-        <tr>
-          <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
-          <td id="LC7" class="blob-code blob-code-inner js-file-line">		pip install -r requirements-gcp.txt</td>
-        </tr>
-        <tr>
-          <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
-          <td id="LC8" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
-          <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class="pl-en">install-aws</span>:</td>
-        </tr>
-        <tr>
-          <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
-          <td id="LC10" class="blob-code blob-code-inner js-file-line">	pip install --upgrade pip <span class="pl-k">&amp;&amp;</span><span class="pl-cce">\</span></td>
-        </tr>
-        <tr>
-          <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
-          <td id="LC11" class="blob-code blob-code-inner js-file-line">		pip install -r requirements-aws.txt</td>
-        </tr>
-        <tr>
-          <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
-          <td id="LC12" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
-          <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class="pl-en">install-amazon-linux</span>:</td>
-        </tr>
-        <tr>
-          <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
-          <td id="LC14" class="blob-code blob-code-inner js-file-line">	pip install --upgrade pip <span class="pl-k">&amp;&amp;</span><span class="pl-cce">\</span></td>
-        </tr>
-        <tr>
-          <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
-          <td id="LC15" class="blob-code blob-code-inner js-file-line">		pip install -r amazon-linux.txt</td>
-        </tr>
-        <tr>
-          <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
-          <td id="LC16" class="blob-code blob-code-inner js-file-line"><span class="pl-en">lint</span>:</td>
-        </tr>
-        <tr>
-          <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
-          <td id="LC17" class="blob-code blob-code-inner js-file-line">	pylint --disable=R,C hello.py</td>
-        </tr>
-        <tr>
-          <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
-          <td id="LC18" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
-          <td id="LC19" class="blob-code blob-code-inner js-file-line"><span class="pl-en">format</span>:</td>
-        </tr>
-        <tr>
-          <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
-          <td id="LC20" class="blob-code blob-code-inner js-file-line">	black <span class="pl-k">*</span>.py</td>
-        </tr>
-        <tr>
-          <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
-          <td id="LC21" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
-          <td id="LC22" class="blob-code blob-code-inner js-file-line"><span class="pl-en">test</span>:</td>
-        </tr>
-        <tr>
-          <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
-          <td id="LC23" class="blob-code blob-code-inner js-file-line">	python -m pytest -vv --cov=hello test_hello.py</td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>assert</span> <span class=pl-c1>2</span> <span class=pl-c1>==</span> <span class=pl-en>add</span>(<span class=pl-c1>1</span>, <span class=pl-c1>1</span>)</td>
         </tr>
   </table>
 </div>
@@ -2669,7 +2649,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/noahgift/github-actions-demo/blame/19c21bc97ec901e419971e0722eea3081b017e08/Makefile">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/noahgift/github-actions-demo/blame/19c21bc97ec901e419971e0722eea3081b017e08/test_hello.py">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/noahgift/github-actions-demo/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
@@ -2692,6 +2672,17 @@
 </button>
 </form>    </details-dialog>
   </details>
+
+    <div class="Popover anim-scale-in js-tagsearch-popover"
+     hidden
+     data-tagsearch-url="/noahgift/github-actions-demo/find-definition"
+     data-tagsearch-ref="main"
+     data-tagsearch-code-nav-context="BLOB_VIEW">
+  <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box color-shadow-large">
+    <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
+    </div>
+  </div>
+</div>
 
 
 </div>
